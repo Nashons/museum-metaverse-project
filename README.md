@@ -1,4 +1,22 @@
-# Museum Template
+# Art Museum
+
+# Developers in the project<br/>
+Samuel<br/>
+Nashons<br/>
+
+we are web3 and blockchain devevelopers
+
+# Tech stack used
+<ol>
+ <li>Decentraland tools</li>
+ <li>Optimism-goerli</li>
+ <li>Alchemy provider</li>
+ <li>EthersJs</li>
+ <li>Nextjs</li>
+ <li>Solidity and hardhat</li>
+ <li>Ipfs</li>
+</ol>
+
 
 # Optimism Artifacts NFT Store
 smart contract and client app===[Github link for art store](https://github.com/4SAMU/Museum)
