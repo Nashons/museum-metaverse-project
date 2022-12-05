@@ -3,7 +3,7 @@
 # Optimism Artifacts NFT Store
 smart contract and client app===[Github link for art store](https://github.com/4SAMU/Museum)
 
-#our Demo<br/>
+# our Demo<br/>
 
 video demo === [click here to view demo](https://www.loom.com/share/88427abe873a4952b27c50d3c67182bc)
 
