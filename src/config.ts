@@ -4,11 +4,12 @@ export default {
     logo: {
         bottom: {
             //image should be 512px square
-            imgSrc: "images/logo.png",
+            imgSrc: "images/logoArt.jpg",
             position: new Vector3(0, 5.8883, 6.9747)
+
         },
         top: {
-            name: "BRAND\nNAME",
+            name: "Art\nMuseum",
             fontSize: 10,
             color: new Color3(0.1, 0.1, 0.1),
             position: new Vector3(0, 10.8, 7.15)
@@ -17,64 +18,64 @@ export default {
     nftImage: [
         {
             name: "image 1",
-            imgSrc: "images/001.png",
-            link: "https://www.decentraland.org",
+            imgSrc: "images/art2.jpg",
+            link: "https://art-museum-henna.vercel.app/",
             width: 512,
             height: 512,
             position: new Vector3(6.8, 2.6, 4.2)
         },
         {
             name: "image 2",
-            imgSrc: "images/002.png",
-            link: "",
+            imgSrc: "images/art3.jpg",
+            link: "https://art-museum-henna.vercel.app/",
             width: 256,
             height: 512,
             position: new Vector3(6.8, 2.6, -4.2)
         },
         {
             name: "image 3",
-            imgSrc: "images/003.png",
-            link: "",
+            imgSrc: "images/art4.jpg",
+            link: "https://art-museum-henna.vercel.app/",
             width: 512,
             height: 256,
             position: new Vector3(-6.8, 2.6, 4.2)
         },
         {
             name: "image 4",
-            imgSrc: "images/004.png",
-            link: "",
+            imgSrc: "images/art5.jpg",
+            link: "https://art-museum-henna.vercel.app/",
             width: 512,
             height: 512,
             position: new Vector3(-6.8, 2.6, -4.2)
         },
         {
             name: "image 5",
-            imgSrc: "images/005.png",
-            link: "",
+            imgSrc: "images/art6.jpg",
+            link: "https://art-museum-henna.vercel.app/",
             width: 512,
             height: 512,
             position: new Vector3(6.8, 10, 4.2)
         },
         {
             name: "image 6",
-            imgSrc: "images/006.png",
-            link: "",
+            imgSrc: "images/art7.jpg",
+            link: "https://art-museum-henna.vercel.app/",
             width: 256,
             height: 512,
             position: new Vector3(6.8, 10, -4.2)
         },
         {
             name: "image 7",
-            imgSrc: "images/007.png",
-            link: "",
+            imgSrc: "images/art8.jpg",
+            link: "https://art-museum-henna.vercel.app/",
             width: 512,
             height: 256,
             position: new Vector3(-6.8, 10, 4.2)
         },
         {
             name: "image 8",
-            imgSrc: "images/008.png",
-            link: "",
+            imgSrc: "images/monalisa.jpg",
+            link: "https://art-museum-henna.vercel.app/",
             width: 512,
             height: 512,
             position: new Vector3(-6.8, 10, -4.2)

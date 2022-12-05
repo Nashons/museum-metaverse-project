@@ -1,13 +1,15 @@
 import config from "../config"
 import { pivotScene } from "./pivot"
 
+
+
 export function addNFTImage(){
     for (let img of config.nftImage) {
 
         let imageTexture = new Texture(img.imgSrc)
         let pictureMat = new Material()
         pictureMat.albedoTexture = imageTexture
-        pictureMat.specularIntensity = 0
+        pictureMat.specularIntensity = 0 
         pictureMat.metallic = 0
         pictureMat.roughness = 1
         pictureMat.emissiveTexture = imageTexture
@@ -61,4 +63,4 @@ export function addNFTImage(){
         nftPlane.setParent(pivotScene)
         frame.setParent(pivotScene)
     }
-}
+} 

@@ -2,7 +2,7 @@ import { addBuilding } from "./modules/building"
 import { addNFTImage } from "./modules/nftImage"
 import { setSceneOrientation } from "./modules/pivot"
 import { addSculpture } from "./modules/sculpture"
-import { addSocialLink } from "./modules/socialLink"
+// import { addSocialLink } from "./modules/socialLink"
 import { addVideoScreen } from "./modules/videoScreen"
 import { createDispenser } from "./booth/dispenser"
 import { addElevator } from "./modules/elevator"
@@ -14,7 +14,7 @@ addElevator()
 addLogo()
 addSculpture()
 addNFTImage()
-addSocialLink()
+// addSocialLink()
 addVideoScreen()
 
 // change the eventUUID to your event
