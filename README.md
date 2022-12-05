@@ -5,13 +5,7 @@
 
 ![](screenshot/screenshot.png)
 
-This scene shows you:
-
-- How to add NFT picture frames
-- How to add a streaming video
-- How to add a POAP booth
-- How to add external links
-- How to organize the scene's content into neat modular components that are easy to change from a config file
+This scene allows for viewing and buying museum artifacts in form of NFTs 
 
 
 ## Try it out
