@@ -5,7 +5,8 @@
 
 ![](screenshot/jo.png)
 
-This scene allows for viewing and buying museum artifacts in form of NFTs 
+This scene allows for viewing and buying museum artifacts in form of NFTs.
+Artifacts are tokenized and bought in form of NFTs deployed on optimism
 
 
 ## Try it out
