@@ -3,7 +3,7 @@
  A simple generic virtual museum for displaying NFT art
 
 
-![](screenshot/screenshot.png)
+![](screenshot/jo.png)
 
 This scene allows for viewing and buying museum artifacts in form of NFTs 
 
