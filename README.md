@@ -1,12 +1,16 @@
+<!-- @format -->
+
 # Art Museum
 
 # Developers in the project<br/>
+
 Samuel<br/>
 Nashons<br/>
 
 we are web3 and blockchain devevelopers
 
 # Tech stack used
+
 <ol>
  <li>Decentraland tools</li>
  <li>Optimism-goerli</li>
@@ -17,22 +21,22 @@ we are web3 and blockchain devevelopers
  <li>Ipfs</li>
 </ol>
 
-
 # Optimism Artifacts NFT Store
+
 smart contract and client app===[Github link for art store](https://github.com/4SAMU/Museum)
 
 # our Demo<br/>
 
-video demo === [click here to view demo](https://www.loom.com/share/88427abe873a4952b27c50d3c67182bc)
+video demo <br/>
+[click here to view demo](https://www.loom.com/share/88427abe873a4952b27c50d3c67182bc)
+![](screenshot/decentraland.mp4)
 
- A simple generic virtual museum for displaying NFT art
-
+A simple generic virtual museum for displaying NFT art
 
 ![](screenshot/jo.png)
 
 This scene allows for viewing and buying museum artifacts in form of NFTs.
 Artifacts are tokenized and bought in form of NFTs deployed on optimism
-
 
 ## Try it out
 
