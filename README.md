@@ -32,7 +32,7 @@ art store link https://art-museum-4samu.vercel.app/
 video demo <br/>
 [click here to view demo](https://www.loom.com/share/88427abe873a4952b27c50d3c67182bc)
 
-[![Watch the video](screenshot/jo.png)](screenshot/decentraland.mp4)
+[![Watch the video](screenshot/jo.png)](https://raw.githubusercontent.com/Nashons/museum-metaverse-project/master/screenshot/decentraland.mp4)
 
 <vide src="https://raw.githubusercontent.com/Nashons/museum-metaverse-project/master/screenshot/decentraland.mp4"></video>
 
