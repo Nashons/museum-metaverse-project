@@ -23,7 +23,9 @@ we are web3 and blockchain devevelopers
 
 # Optimism Artifacts NFT Store
 
-smart contract and client app===[Github link for art store](https://github.com/4SAMU/Museum)
+smart contract and client app===[Github link for art store](https://github.com/4SAMU/Museum)<br/>
+
+art store link https://art-museum-4samu.vercel.app/
 
 # our Demo<br/>
 
@@ -32,12 +34,12 @@ video demo <br/>
 
 [![Watch the video](screenshot/jo.png)](screenshot/decentraland.mp4)
 
-A simple generic virtual museum for displaying NFT art
+click the image to view demo video 👆👆👆
 
-![](screenshot/jo.png)
+-A simple generic virtual museum for displaying NFT art
 
-This scene allows for viewing and buying museum artifacts in form of NFTs.
-Artifacts are tokenized and bought in form of NFTs deployed on optimism
+-This scene allows for viewing and buying museum artifacts in form of NFTs.<br/>
+-Artifacts are tokenized and bought in form of NFTs deployed on optimism
 
 ## Try it out
 
