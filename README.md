@@ -34,6 +34,8 @@ video demo <br/>
 
 [![Watch the video](screenshot/jo.png)](screenshot/decentraland.mp4)
 
+<vide src="https://raw.githubusercontent.com/Nashons/museum-metaverse-project/master/screenshot/decentraland.mp4"></video>
+
 click the image to view demo video 👆👆👆
 
 -A simple generic virtual museum for displaying NFT art
