@@ -30,7 +30,7 @@ smart contract and client app===[Github link for art store](https://github.com/4
 video demo <br/>
 [click here to view demo](https://www.loom.com/share/88427abe873a4952b27c50d3c67182bc)
 
-[![](screenshot/decentraland.mp4)
+[![Watch the video](screenshot/jo.png)](screenshot/decentraland.mp4)
 
 A simple generic virtual museum for displaying NFT art
 
